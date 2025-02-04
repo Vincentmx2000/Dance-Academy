@@ -1,0 +1,176 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #ffffff;
+  }
+  
+  header {
+    background-color: #333;
+    color: #ffffff;
+    padding: 20px 10px;
+    text-align: center;
+   
+  }
+  
+  
+  header .logo h1 {
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ,ul, li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+  .hom {
+    color:#ffffff;
+    padding: 100px 20px;
+    text-align: center;
+    background-image: url(home\ back.jpeg);
+  }
+
+  
+  .homepage h2 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  
+  .homepage p {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .b{
+    font-size: 20px;
+    color: #ffffff;
+    text-align: center;
+    padding: 50px;
+    background-color: #3e3d3e;
+  }
+  
+  .btn {
+    background: #ff6f61;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  
+  .btn:hover {
+    background: #ff4a3d;
+  }
+  .a{
+    font-size: 15px;
+  }
+  .classes {
+    padding: 5px 20px;
+    text-align: center;
+  }
+  .classes{
+    display: inline;
+    color: #ffffff;
+    font-size: 15px;
+  }
+  .a
+  {
+    color: #333;
+    font-size: 30px;
+  }
+ 
+  
+  .hiphop{
+    background-image: url(hiphop.jpeg);
+    padding: 100px;
+    margin: 5%;
+    border-radius: 5px;
+    width: 30%;
+    background-position: 100%;
+    background-size: 653px;
+    display: inline-block
+  }
+  .hiphop:hover
+  {
+    opacity: 85%;
+    font-size: 17px;
+  }
+  .ballet{
+    background-image: url(silent.jpeg);
+    padding: 100px;
+    margin: 5%;
+    border-radius: 5px;
+    width: 30%;
+    background-position: 50%;
+    background-size: 653px;
+    display: inline-block
+  }
+  .ballet:hover{
+    font-size: 17px;
+    opacity: 85%;
+  }
+  .natyam
+    {
+      background-image: url(natyam.jpeg);
+      padding: 100px;
+      margin: 5%;
+      border-radius: 5px;
+      width: 30%;
+      background-position: 100%;
+      background-size: 653px;
+     display: inline-block
+
+    }
+    .natyam:hover{
+      font-size: 16px;
+      opacity: 85%;
+    }
+  
+  .about {
+    background: #333;
+    color: #fff;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .contact {
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .contact form {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  .contact label {
+    display: block;
+    margin: 10px 0 5px;
+  }
+  .out{
+    text-align: center;
+  }
+  .mail
+  {
+    text-align: center;
+  }
+  .foot{
+    color: #333;
+    text-align: center;
+  }
+  .v{
+    text-align: right;
+    color: #333;
+  }
+ 
